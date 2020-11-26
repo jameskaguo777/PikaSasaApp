@@ -1,5 +1,5 @@
 const SLIDE_IMAGES = [
   {
-    'asset': 'assets/slide1.png'
+    'asset': 'assets/slide1.png',
   }
 ];
